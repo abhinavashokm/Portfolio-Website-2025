@@ -672,6 +672,7 @@ section,
   display: flex;
   align-items: center;
   justify-content: center;
+  background: linear-gradient(90deg,rgba(0, 0, 0, 1) 0%, rgba(43, 112, 112, 1) 50%);
 }
 
 .hero img {
